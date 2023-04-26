@@ -66,20 +66,10 @@
 .plan__features {
     list-style: none;
     margin: 0;
-    padding: 0;
-}
-
-.plan__feature {
-    margin: 8px 0;
-}
-
-#key-features {
-    background: #ff1b68;
-    margin-top: 80px;
-    padding: 16px;
-}
-
-#key-features .section-title {
+  }
+  
+.parent span {
+    background: rgb(105, 105, 109);
     color: white;
     margin: 32px;
 }
