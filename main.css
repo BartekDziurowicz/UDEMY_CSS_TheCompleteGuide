@@ -33,9 +33,9 @@ body {
   width: 90%;
   box-sizing: border-box;
 }
-@media (min-width: 40rem) {
+@media (min-width: 30rem) {
   .sass-section, .sass-details, .sass-introduction {
-    width: 30rem;
+    font-size: 125%;
   }
 }
 
